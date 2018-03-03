@@ -4,7 +4,7 @@ Homepage for all members of the APL-Cation project.
 
 The APL-Cation project comprehends full-blown applications that support Dyalog APL programmers during the development cycle.
 
-APL-Cation project is an Open Source project; all members run under the relaxed MIT license.
+The APL-Cation project is an Open Source project; all members run under the - relaxed - MIT license.
 
 For more information about the APL-Cation project see the wiki in this project.
 
